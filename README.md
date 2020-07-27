@@ -8,6 +8,8 @@ The objective of this project is to let ants traverse through the maze as fast a
 
 the excutable requires a text file with the layout of a map.
 
+This project has been made together with jdunnink
+
 24<br>
 ##start<br>
 1 23 3<br>
